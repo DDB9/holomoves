@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dE/GiIOJXQo3nmxb9I0cpsMakWpF4rHHayNWiXjoY80yZ2jMd6ndKHW0nbp20p1XlwnX7FtmN9lgg/QkdCI0fw==",
+  "success": true,
+  "projectFilePath": "G:\\HoloLens\\HoloTest\\Assets\\MRTK\\Providers\\WindowsMixedReality\\Shared\\DotNetAdapter\\DotNetAdapter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matri\\.nuget\\packages\\microsoft.windows.mixedreality.dotnetwinrt\\0.5.1049\\microsoft.windows.mixedreality.dotnetwinrt.0.5.1049.nupkg.sha512",
+    "C:\\Users\\matri\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
